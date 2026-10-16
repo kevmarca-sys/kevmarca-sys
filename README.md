@@ -1,6 +1,6 @@
 # Hola, soy Kevin Marca 👋
 
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales** · 📍 Cuenca, Ecuador
+🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la **Universidad Católica de Cuenca** · 📍 Cuenca, Ecuador
 
 Me enfoco en desarrollo **backend con Java y Spring Boot**, construcción de **APIs REST** y automatización de despliegues con **CI/CD**.
 
